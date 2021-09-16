@@ -1,5 +1,0 @@
-{"code": 0
-  ,"msg": ""
-  ,"count": 3000000
-  ,"data":[{"age":"20","average":"","id":"1","java":"76","linux":"97","name":"zhangsan","python":"98","sex":"man","sql":"67","sum":"338"},{"age":"22","average":"","id":"2","java":"98","linux":"54","name":"lisi","python":"76","sex":"woman","sql":"57","sum":"285"},{"age":"21","average":"","id":"3","java":"66","linux":"99","name":"wangwu","python":"77","sex":"man","sql":"88","sum":"330"}]
-}
